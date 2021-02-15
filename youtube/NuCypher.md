@@ -13,18 +13,21 @@
 -   <https://www.nucypher.com/>
 -   <https://www.google.com/search?sxsrf=ALeKk02lbDeS8RhHKjptNnItqycKtrYlcA%3A1613357750001&ei=teIpYKLkPLyx5NoP1Z2xoAk&q=SSH+credentials&oq=SSH+credentials&gs_lcp=Cgdnd3Mtd2l6EAMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAUNnNA1jZzQNgl9IDaABwAngAgAFWiAGaAZIBATKYAQCgAQKgAQGqAQdnd3Mtd2l6wAEB&sclient=gws-wiz&ved=0ahUKEwjiktb88eruAhW8GFkFHdVODJQQ4dUDCA0&uact=5>
 -   <https://coinmarketcap.com/currencies/nucypher/>
-
-### Research more
-
+-   <https://blog.nucypher.com/the-worklock/>
+-   <https://www.iwm.org.uk/history/how-alan-turing-cracked-the-enigma-code>
+-   <https://www.google.com/search?q=threshold+cryptography&oq=threshold+cryptography&aqs=chrome..69i57.754j0j1&sourceid=chrome&ie=UTF-8>
+-   <https://www.youtube.com/watch?v=UcZ-G0TRjEE&list=WL&index=11&ab_channel=CryptoFinder>
+-   <https://pyumbral.readthedocs.io/en/latest/>
+-   <https://www.google.com/search?sxsrf=ALeKk00-QYzcKvnvMvQ2vngWnEW9HBIklw%3A1613404801829&ei=gZoqYKSCMozr_QaKg4PwBg&q=BLS+signatures+definition&oq=BLS+signatures+definition&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANQ70xYpVZgo1doAnACeACAAVKIAdcBkgEBM5gBAKABAqABAaoBB2d3cy13aXrIAQjAAQE&sclient=gws-wiz&ved=0ahUKEwjkxt2goezuAhWMdd8KHYrBAG4Q4dUDCA0&uact=5>
+-   <https://github.com/nucypher/whitepaper/blob/master/whitepaper.pdf>
 -   <https://www.nucypher.com/proxy-re-encryption>
 -   <https://www.nucypher.com/nubls>
 -   <https://www.nucypher.com/fully-homomorphic-encryption>
 -   <https://www.nucypher.com/secrets-management>
 -   <https://www.nucypher.com/dynamic-access-control>
 -   <https://dao.nucypher.com/>
--   <https://blog.nucypher.com/>
 -   <https://www.nucypher.com/network>
 -   <https://github.com/nucypher/>
 -   <https://status.nucypher.network/>
 -   <https://blog.coinlist.co/a-deep-dive-into-nucypher/>
--   <https://techcrunch.com/2017/05/15/nucypher-is-using-proxy-re-encryption-to-lift-more-enterprise-big-data-into-the-cloud/>
+-   <https://medium.com/infstones/nucypher-overview-758575f79625#:~:text=NuCypher%20uses%20a%20single%2Dtoken,opportunity%20of%20serving%20the%20network.>
