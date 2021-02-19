@@ -11,22 +11,16 @@
 -   <https://coinmarketcap.com/currencies/aave/>
 -   <https://github.com/aave/aave-protocol/graphs/contributors>
 -   <https://github.com/aave/protocol-v2/graphs/contributors>
-
-Research more
-
--   <https://github.com/aave/aave-protocol/blob/master/docs/Aave_Protocol_Whitepaper_v1_0.pdf>
--   <https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9>
 -   <https://aave.com/>
--   <https://docs.aave.com/aavenomics/>
--   <https://ethlend.io/>
--   <https://www.kraken.com/learn/what-is-aave-lend>
--   <https://defirate.com/aave/>
--   <https://academy.binance.com/en/articles/what-is-aave>
--   <https://www.voice.com/post/@osaemezu/aave-lend-a-beginners-guide-on-how-to-use-the-defi-lending-protocol-1605113297-1>
--   <https://finematics.com/lending-and-borrowing-in-defi-explained/>
--   <https://medium.com/aave/migration-and-staking-101-fe8fda3e2a30>
+-   <https://docs.aave.com/faq/>
+-   <https://docs.aave.com/portal/>
+-   <https://www.p2pfinancenews.co.uk/2020/07/08/aave-launches-undercollateralized-lending-service/>
+-   <https://www.openlaw.io/>
+-   <https://github.com/aave/aip>
+-   <https://aave.github.io/aip/>
+-   <https://defipulse.com/>
+-   <https://etherscan.io/token/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9>
+-   <https://etherscan.io/token/0x4da27a545c0c5b758a6ba100e3a049001de870f5>
+-   <https://www.investopedia.com/terms/a/apy.asp#:~:text=The%20annual%20percentage%20yield%20(APY)%20is%20the%20real%20rate%20of,the%20effect%20of%20compounding%20interest.&text=With%20each%20period%20going%20forward,balance%20gets%20bigger%20as%20well.>
+-   <https://www.moneyunder30.com/annual-percentage-rate#:~:text=APR%2C%20or%20annual%20percentage%20rate%2C%20is%20the%20interest%20rate%20you,costs%20related%20to%20the%20loan.>
 -   <https://messari.io/asset/aave/profile>
--   <https://www.coindesk.com/defi-lender-aave-rolls-out-governance-token-on-path-to-decentralization>
--   <https://www.coinbureau.com/review/aave-lend/>
--   <https://boxmining.com/aave-lend/>
--   <https://academy.ivanontech.com/blog/defi-deep-dive-what-is-aave>
