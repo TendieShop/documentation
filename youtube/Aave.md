@@ -24,3 +24,5 @@
 -   <https://www.investopedia.com/terms/a/apy.asp#:~:text=The%20annual%20percentage%20yield%20(APY)%20is%20the%20real%20rate%20of,the%20effect%20of%20compounding%20interest.&text=With%20each%20period%20going%20forward,balance%20gets%20bigger%20as%20well.>
 -   <https://www.moneyunder30.com/annual-percentage-rate#:~:text=APR%2C%20or%20annual%20percentage%20rate%2C%20is%20the%20interest%20rate%20you,costs%20related%20to%20the%20loan.>
 -   <https://messari.io/asset/aave/profile>
+-   <https://www.theblockcrypto.com/post/75845/aave-uk-fca-emi-license-defi>
+-   <https://twitter.com/AaveAave/status/1297943923382460416>
