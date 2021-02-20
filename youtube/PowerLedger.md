@@ -10,15 +10,9 @@
 -   <https://www.linkedin.com/in/john-bulich-75561a99/>
 -   <https://www.linkedin.com/in/jemmagreen/>
 -   <https://www.powerledger.io/our-team/>
-
-Research more
-
+-   <https://www.youtube.com/watch?v=zpZRXW_IEIY&list=WL&index=15&t=614s&ab_channel=CoinBureau>
+-   <https://www.reddit.com/r/PowerLedger/comments/7gkdmv/sparkz_powr/>
+-   <https://icodrops.com/powerledger/>
 -   <https://www.powerledger.io/>
--   <https://coincentral.com/power-ledger-beginner-guide/#:~:text=Power%20Ledger%20provides%20a%20blockchain,excess%20solar%20power%20to%20neighbors.>
--   <https://www.powerledger.io/article/unlocking-the-powr-of-power-ledger/>
--   <https://www.powerledger.io/tokenomics/>
--   <https://medium.com/power-ledger/q-how-does-power-ledger-make-money-67e07b7ee0c0>
 -   <https://medium.com/power-ledger/common-questions-and-misconceptions-about-power-ledger-8c7d0b819d7d>
--   <https://www.coinbureau.com/review/power-ledger-powr/>
--   <https://www.finder.com/ca/power-ledger>
--   <https://www.weusecoins.com/what-is-power-ledger/>
+-   <https://coincentral.com/power-ledger-beginner-guide/#:~:text=Power%20Ledger%20provides%20a%20blockchain,excess%20solar%20power%20to%20neighbors.>
