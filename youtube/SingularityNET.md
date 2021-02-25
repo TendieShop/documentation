@@ -24,8 +24,8 @@
 -   <https://public.singularitynet.io/whitepaper.pdf>
 -   <https://dev.singularitynet.io/docs/ai-developers/grpc/>
 -   <https://stackoverflow.com/questions/20653240/what-is-rpc-framework-and-apache-thrift>
-
-Research
-
+-   <https://medium.com/@thefractalcrypto/cardano-singularitynet-partnership-trillions-in-marketcap-bcd78e44e9d4>
+-   <https://opencog.org/vision/>
+-   <https://www.google.com/search?q=Black+and+white+image+HD&tbm=isch&ved=2ahUKEwiz2JfmuoXvAhUHJd8KHZFhBz8Q2-cCegQIABAA&oq=Black+and+white+image+HD&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB5Q4oUTWNWJE2D-ihNoAHAAeACAAVGIAeIBkgEBM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=u9A3YPOOMofK_AaRw534Aw&bih=1001&biw=1920#imgrc=MkPrwQX0nV1AKM>
 -   <https://blog.singularitynet.io/singularitynet-announces-singularitydao-8210ea3fd1ff>
--   <https://github.com/singnet/>
+-   <https://github.com/jantic/DeOldify>
