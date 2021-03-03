@@ -19,3 +19,5 @@
 -   <https://messari.io/asset/kin/profile>
 -   <https://medium.com/kinblog/announcing-the-kin-representatives-the-next-phase-of-kin-foundation-governance-919920000036>
 -   <https://form.jotform.com/200758069642157>
+-   <https://dappradar.com/rankings>
+-   <https://medium.com/kinblog/announcing-the-kin-representatives-the-next-phase-of-kin-foundation-governance-919920000036>
