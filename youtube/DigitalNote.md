@@ -11,8 +11,6 @@
 -   <https://xdn-explorer.com/>
 -   <https://xdn-explorer.com/richlist>
 -   <https://xdn-explorer.com/masternodes>
-
-Explore
-
+-   <https://twitter.com/CryptoCoderz>
 -   <https://digitalnote.org/>
 -   <https://github.com/DigitalNoteXDN>
