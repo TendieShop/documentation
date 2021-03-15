@@ -11,3 +11,4 @@
 -   <https://www.parity.io/substrate/>
 -   <https://messari.io/asset/polkadot/profile>
 -   <https://polkadot.subscan.io/>
+-   <https://polkaproject.com/#/>
