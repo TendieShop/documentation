@@ -12,3 +12,4 @@
 -   <https://messari.io/asset/polkadot/profile>
 -   <https://polkadot.subscan.io/>
 -   <https://polkaproject.com/#/>
+-   <https://cryptologos.cc/polkadot-new>
