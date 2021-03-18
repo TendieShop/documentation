@@ -12,3 +12,4 @@
 -   <https://play.decentraland.org/?position=-27%2C54&realm=baldr-amber>
 -   <https://github.com/decentraland/explorer/graphs/contributors>
 -   <https://news.bitcoin.com/exploring-decentraland-a-review-of-the-virtual-world-built-on-ethereum/>
+-   <https://decentraland.icu/>
