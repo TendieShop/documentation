@@ -15,7 +15,10 @@
 -   <https://sybil.org/#/delegates/radicle>
 -   <https://github.com/radicle-dev/radicle-upstream/graphs/contributors>
 -   <https://twitter.com/abbey_titcomb/status/1374448211658641408>
-
-## Notes
-
-Allow communities to be able to pay developers with their own ERC20 token
+-   <https://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/>
+-   <https://pixabay.com/users/blueeye121-19810011/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=63653>
+-   <https://pixabay.com/users/adege-4994132/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=34826>
+-   <https://www.pexels.com/video/a-person-working-on-a-computer-in-an-office-3209552/>
+-   <https://www.pexels.com/video/fire-explosion-video-856295/>
+-   <https://www.pexels.com/video/digital-presentation-of-data-and-information-3130284/>
+-   <https://www.youtube.com/watch?v=sqKuGvpz4Sc&ab_channel=Fembot>
