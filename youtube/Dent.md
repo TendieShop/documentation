@@ -12,3 +12,4 @@
 -   <https://worldpopulationreview.com/country-rankings/underdeveloped-countries>
 -   <https://support.apple.com/en-us/HT209096>
 -   <https://www.google.com/search?q=How+many+countries+does+Africa+have&oq=How+many+countries+does+Africa+have&aqs=chrome..69i57.5696j0j1&sourceid=chrome&ie=UTF-8>
+- <https://www.google.com/search?q=is+south+africa+a+third+world+country&oq=is+south+africa+a+third+world+country&aqs=chrome.0.69i59j69i60.1979j0j1&sourceid=chrome&ie=UTF-8>
