@@ -21,3 +21,8 @@
 -   <https://myaltcoins.info/idena-review/>
 -   <https://www.google.com/search?q=Sybil+attack+deifnined&oq=Sybil+attack+deifnined&aqs=chrome..69i57.6231j0j1&sourceid=chrome&ie=UTF-8>
 -   <https://ethresear.ch/t/can-anyone-come-up-with-attacks-for-idena/6260/4>
+-   <https://www.pexels.com/video/person-holding-vote-pins-4669170/>
+-   <https://www.pexels.com/video/computer-crime-anonymous-programmer-4389357/>
+-   <https://www.pexels.com/video/animated-abstract-burning-effect-5091624/>
+-   <https://www.pexels.com/video/footage-of-a-man-gets-an-idea-3761460/>
+-   <https://www.pexels.com/video/number-1-on-pink-background-4664915/>
