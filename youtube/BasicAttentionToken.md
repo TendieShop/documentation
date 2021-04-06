@@ -25,3 +25,4 @@
 -   <https://www.pexels.com/video/art-hand-sign-yellow-3927046/>
 -   <https://www.pexels.com/video/hands-rich-green-money-3943962/>
 -   <https://www.pexels.com/video/pink-purple-abstract-forms-6071387/>
+-   <https://commons.wikimedia.org/wiki/File:Brave_Basic_Attention_Token_(BAT)_Logo.svg>
