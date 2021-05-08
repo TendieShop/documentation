@@ -15,3 +15,5 @@
 -   <https://messari.io/asset/handshake/profile>
 -   <https://www.reddit.com/r/handshake/comments/j9g3y8/faq_what_is_the_coin_emission_schedule_for_hns/>
 -   <https://www.nasdaq.com/articles/decentralized-dns-project-handshake-patches-inflation-bug-2021-04-02>
+-   <https://www.hdns.io/>
+-   <https://news.namebase.io/showcase?sort=hot>
