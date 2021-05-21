@@ -22,5 +22,3 @@
 -   <https://www.dapp.com/market/zilliqa?category=All&chart=volume&price=false>
 -   <https://gov.zilliqa.com/>
 -   <https://governance.zilliqa.com/#/gzil/all>
-
--   <https://www.reddit.com/r/zilliqa/comments/lxhu08/zilliqa_number_of_transactions_fee_revenue_dapps/>
