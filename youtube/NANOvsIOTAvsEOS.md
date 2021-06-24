@@ -29,7 +29,6 @@
 -   <https://coinmarketcap.com/currencies/eos/>
 -   <https://icodrops.com/eos/>
 -   <https://www.bitdegree.org/crypto/what-is-eos>
--   <https://venturebeat.com/2019/04/13/why-we-built-our-blockchain-business-on-eos-instead-of-ethereum/>
 -   <https://github.com/EOSIO/eos/graphs/contributors>
 -   <https://messari.io/asset/eos/profile>
 -   <https://cryptologos.cc/eos>
