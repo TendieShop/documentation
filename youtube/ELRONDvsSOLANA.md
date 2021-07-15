@@ -6,6 +6,7 @@
 -   <https://icodrops.com/elrond-network/>
 -   <https://elrond.com/faq/>
 -   <https://elrondpartners.com/>
+-   <https://www.reddit.com/r/Elrond/comments/le8caz/15000_transactions_per_second/>
 -   <https://github.com/ElrondNetwork/elrond-go/graphs/contributors>
 -   <https://messari.io/asset/elrond/profile>
 
