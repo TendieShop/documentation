@@ -1,0 +1,29 @@
+# Flow
+
+## Sources
+
+-   <https://coinmarketcap.com/currencies/flow/>
+-   <https://icodrops.com/flow/>
+-   <https://www.onflow.org/>
+-   <https://www.onflow.org/primer>
+-   <https://www.onflow.org/flow-token-economics>
+-   <https://www.onflow.org/token-distribution>
+-   <https://www.onflow.org/faq>
+-   <https://www.onflow.org/play>
+-   <https://www.onflow.org/node-validators>
+-   <https://github.com/onflow/flow-go/graphs/contributors>
+-   <https://github.com/onflow/cadence/graphs/contributors>
+-   <https://github.com/onflow/kitty-items/graphs/contributors>
+-   <https://medium.com/dapperlabs/libra-and-flow-combining-resources-for-open-source-40530e53fa01>
+-   <https://flow.bigdipper.live/>
+-   <https://flowscan.org/>
+-   <https://twitter.com/flow_blockchain>
+-   <https://www.google.com/search?q=Flow+coin+logo&sxsrf=ALeKk023VQigDrMr5Z9nxv-zB5PvjshrFw:1621302713107&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj9oqaij9LwAhV6GVkFHbUaAM4Q_AUoAXoECAEQAw&biw=1920&bih=1001#imgrc=MHJ4CV0YvqmqyM&imgdii=IE-zbpbiSvBOMM>
+-   <https://www.google.com/search?q=ACID-compliant+environment&oq=ACID-compliant+environment&aqs=chrome..69i57.810j0j1&sourceid=chrome&ie=UTF-8>
+-   <https://www.google.com/search?q=atomicity+definition&oq=atomicity+definition&aqs=chrome..69i57.245j0j9&sourceid=chrome&ie=UTF-8>
+-   <https://www.cryptokitties.co/>
+-   <https://www.dapperlabs.com/>
+-   <https://play.onflow.org/local?type=account&id=LOCAL-account-0>
+-   <https://messari.io/asset/flow/profile>
+-   <https://buildwithflow.typeform.com/to/ROJH2kXl>
+-   <https://nbatopshot.com/>

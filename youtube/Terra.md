@@ -1,0 +1,37 @@
+# Terra
+
+## Sources
+
+-   <https://coinmarketcap.com/earn/>
+-   <https://coolors.co/054a91-3e7cb1-81a4cd-dbe4ee-f17300>
+-   <https://terra.money/#1>
+-   <https://www.linkedin.com/in/danielshin/>
+-   <https://www.linkedin.com/in/do-kwon/>
+-   <https://coinmarketcap.com/currencies/terra-luna/>
+-   <https://docs.terra.money/>
+-   <https://www.dapp.com/dapps/terra-chai>
+-   <https://anchorprotocol.com/#4>
+-   <https://icodrops.com/terra/>
+-   <https://www.meme.mn/nav/home>
+-   <https://chai.finance/>
+-   <https://mirror.finance/>
+-   <https://docs.mirror.finance/user-guide/meth-dual-yield>
+-   <https://app.terraswap.io/#Swap>
+-   <https://cosmwasm.com/>
+-   <https://docs.terra.money/dev/spec-oracle.html#concepts>
+-   <https://medium.com/terra-money/columbus-2-network-upgrade-7d3a28e83e9e>
+-   <https://agora.terra.money/t/on-oracle-reliability/66>
+-   <https://terra.smartstake.io/history>
+-   <https://coinmarketcap.com/currencies/terrausd/>
+-   <https://terra.money/Terra_White_paper.pdf>
+-   <https://medium.com/terra-money/introducing-the-new-terra-protocol-ed4a8fbefe4c>
+-   <https://www.dapp.com/dapps/terra-chai>
+-   <https://airdrops.io/mirror-protocol/>
+-   <https://medium.com/mirror-protocol/an-introduction-to-mir-token-farming-on-mirror-protocol-21e5c7c0f986>
+-   <https://www.dapp.com/app/mirror-protocol>
+-   <https://docs.terra.money/validator/#hardware>
+-   <https://finder.terra.money/>
+-   <https://terra.stake.id/#/>
+-   <https://terra.stake.id/#/validator/62662F3CBB4CF54EBF7568E5B460938663827B6D>
+-   <https://www.stakewith.us/>
+-   <https://messari.io/asset/terra/profile>

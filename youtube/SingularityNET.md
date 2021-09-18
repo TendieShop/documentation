@@ -1,0 +1,31 @@
+# SingularityNET
+
+## Sources
+
+-   <https://cryptologos.cc/singularitynet>
+-   <https://dribbble.com/shots/10960727-Flat-design-landscape>
+-   <https://coinmarketcap.com/currencies/singularitynet/>
+-   <https://icodrops.com/singularitynet/>
+-   <https://www.linkedin.com/in/bengoertzel/>
+-   <https://www.linkedin.com/in/simone-giacomelli-a8458197/>
+-   <https://www.linkedin.com/in/david-hanson-a51162/>
+-   <https://singularitynet.io/aboutus/>
+-   <https://etherscan.io/token/0x8eb24319393716668d768dcec29356ae9cffe285>
+-   <https://singularitynet.io/>
+-   <https://beta.singularitynet.io/>
+-   <https://public.singularitynet.io/whitepaper.pdf>
+-   <https://www.youtube.com/watch?v=yFAuXmcGk2Y&feature=youtu.be&ab_channel=YannicKilcher>
+-   <https://twitter.com/singularity_net/status/1356922434562240513>
+-   <https://voting.singularitynet.io/>
+-   <https://coincentral.com/singularitynet-beginner-guide/#:~:text=SingularityNET%20is%20a%20decentralized%20marketplace%20for%20Artificial%20Intelligence%20(AI).&text=Most%20organizations%20need%20a%20more,to%20build%20effective%20machine%20learning.>
+-   <https://www.reddit.com/r/SingularityNet/comments/bwddic/whats_the_inflation_rate_of_singularitynet_agi/>
+-   <https://blog.singularitynet.io/announcing-the-singularitynet-token-sale-5ae1b5540bd2>
+-   <https://blog.singularitynet.io/singularitynet-the-past-the-present-and-the-future-7bacb2b8e7f0>
+-   <https://public.singularitynet.io/whitepaper.pdf>
+-   <https://dev.singularitynet.io/docs/ai-developers/grpc/>
+-   <https://stackoverflow.com/questions/20653240/what-is-rpc-framework-and-apache-thrift>
+-   <https://medium.com/@thefractalcrypto/cardano-singularitynet-partnership-trillions-in-marketcap-bcd78e44e9d4>
+-   <https://opencog.org/vision/>
+-   <https://www.google.com/search?q=Black+and+white+image+HD&tbm=isch&ved=2ahUKEwiz2JfmuoXvAhUHJd8KHZFhBz8Q2-cCegQIABAA&oq=Black+and+white+image+HD&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB5Q4oUTWNWJE2D-ihNoAHAAeACAAVGIAeIBkgEBM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=u9A3YPOOMofK_AaRw534Aw&bih=1001&biw=1920#imgrc=MkPrwQX0nV1AKM>
+-   <https://blog.singularitynet.io/singularitynet-announces-singularitydao-8210ea3fd1ff>
+-   <https://github.com/jantic/DeOldify>
