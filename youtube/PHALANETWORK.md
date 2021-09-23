@@ -10,3 +10,4 @@
 -   <https://phala.network/en/pha/#title_Distribution>
 -   <https://github.com/Phala-Network/phala-blockchain/graphs/contributors>
 -   <https://app.phala.network/delegate/>
+- <https://twitter.com/marvin_tong/status/1441053835103903746>
