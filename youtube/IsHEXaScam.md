@@ -7,3 +7,4 @@
 -   <https://github.com/BitcoinHEX/contract/graphs/contributors>
 -   <https://cryptologos.cc/hex>
 -   <https://www.reddit.com/r/CryptoCurrency/comments/o3io46/how_hex_embezzled_hundreds_of_millions_usd_from/>
+-   <https://www.reddit.com/r/HEXcrypto/comments/ijn00v/can_someone_explain_tshares_thanks/>
