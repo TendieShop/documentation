@@ -17,7 +17,6 @@
 -   <https://www.wilderworld.com/>
 -   <https://dropstab.com/wilder-world>
 -   <https://www.zine.live/update-0/>
--   <https://zine.wilderworld.com/>
 -   <https://morioh.com/p/209fbc96583b>
 -   <https://www.zine.live/real-estate-in-the-zero-metaverse/>
 -   <https://www.zine.live/zero-qdo-token-generation-event/>
