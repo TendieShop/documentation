@@ -1,4 +1,4 @@
-# ARCONA vs BLOKTOPIA
+# ARCONA vs OVR
 
 ## ARCONA
 
@@ -15,11 +15,8 @@
 
 ## OVR
 
--   <https://coinmarketcap.com/currencies/bloktopia/>
--   <https://www.bloktopia.com/>
--   <https://dropstab.com/bloktopia>
--   <https://www.bloktopia.com/wp-content/uploads/2021/10/Bloktopia-Lightpaper-1-1.pdf>
--   <https://www.google.com/search?q=Bloktopia+github&oq=Bloktopia+github&aqs=chrome..69i57j69i60l2.1911j0j1&sourceid=chrome&ie=UTF-8>
+-   <https://coinmarketcap.com/currencies/ovr/>
+-   <https://www.ovr.ai/>
 -   <https://dropstab.com/ovr>
 -   <https://github.com/OVR-Platform/chainlink-contest/graphs/contributors>
 -   <https://www.ovr.ai/blog/ovr-binance-smart-chain-bsc-bridge-is-live/>
