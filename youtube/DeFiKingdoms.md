@@ -16,4 +16,6 @@
 -   <https://www.pngall.com/bitcoin-png/download/24854>
 -   <https://www.pngall.com/bitcoin-png/download/24846>
 
+## Stock footage
+
 Video by Tima Miroshnichenko from Pexels
