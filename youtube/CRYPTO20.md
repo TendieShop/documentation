@@ -7,3 +7,4 @@
 -   <https://github.com/cryptotwenty>
 -   <https://www.coingecko.com/en/coins/crypto20>
 -   <https://icodrops.com/crypto20/>
+-   <https://cdn.invictuscapital.com/reports/2021_QR4.pdf>
