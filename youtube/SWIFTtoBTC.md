@@ -9,8 +9,9 @@
 -   <https://www.reddit.com/r/PublicFreakout/comments/t2j9s1/russians_have_found_out_about_the_sanctions_and/hymd7su/?context=3>
 -   <https://twitter.com/BTC_Archive/status/1497965246673260545>
 -   <https://twitter.com/_lordmax_/status/1497894853098688517>
--   <https://finance.yahoo.com/quote/RUB%3DX?p=RUB%3DX>
+-   <https://www.tradingview.com/symbols/USDRUB/>
 -   <https://twitter.com/Schuldensuehner/status/1498001258833223690>
+-   <https://www.forexlive.com/news/russian-central-bank-says-stock-trading-on-moscow-exchange-will-not-open-on-monday-20220228/>
 -   <https://twitter.com/Schuldensuehner/status/1497864259501535237>
 -   <https://twitter.com/gregisenberg/status/1471189387086020623>
 -   <https://twitter.com/danheld/status/1475851771281092609>
