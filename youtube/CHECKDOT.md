@@ -7,4 +7,4 @@
 -   <https://checkdot.io/>
 -   <https://checkdot.io/litepaper.pdf>
 -   <https://app.checkdot.io/page/1/>
--   <https://audits.checkdot.io/MagicBirdsToken-Audit-CheckDot.pdf>
+-   <https://audits.checkdot.io/ethereum-audit-checkdot-2.pdf>
