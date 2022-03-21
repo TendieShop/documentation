@@ -16,3 +16,4 @@
 -   <https://messari.io/asset/solana/profile/launch-and-initial-token-distribution>
 -   <https://github.com/solana-labs/solana/graphs/contributors>
 -   <https://cryptologos.cc/solana>
+-   <https://status.solana.com/history?page=1>
