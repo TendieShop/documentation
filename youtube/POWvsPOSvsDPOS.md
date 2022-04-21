@@ -45,6 +45,7 @@
 -   <https://companiesmarketcap.com/>
 -   <https://www.youtube.com/watch?v=1IxCcKRcZVs&ab_channel=Cryptocoinmining>
 -   <https://www.freeiconspng.com/images/x-png>
+-   <https://www.vectorstock.com/royalty-free-vector/blue-galaxy-background-with-glowing-planets-and-3d-vector-31410193>
 
 Video by Uzunov Rostislav, Tima Miroshnichenko, cottonbro, Karolina Grabowska, Jievani, Roger Brown, Kelly L, Pressmaster, Monstera, Anna Nekrashevich, Bedrijfsfilmspecialist.nl, Henry, Sora Shimazaki, John Hill, Taryn Elliott, Jess Loiterton, Matthias Groeneveld, Ricardo Esquivel, Weldi 33 Studio Design, Marnus Kleyn, Abhijit Rout, Zuzanna Musial, invisiblepower, Mikhail Nilov, Sakura Studio Videoproduktion, Rūdolfs Klintsons, Sergei Starostin, Kampus Production, Pavel Danilyuk, CityXcape, Varun Ish Nanda, Dima Krivoy, Edmond Dantès, Michelangelo Buonarroti, TREEDEO.ST, Yaroslav Shuraev, EKATERINA BOLOVTSOVA, Colors Motion Graphics from Pexels
 
